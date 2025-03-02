@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Cybersecurity Internship ",
+      "organisation": "National Technical Research Organisation (NTRO) ",
+      "startDate": " Sept,2023",
+      "endDate": "Dec,2023",
+      "experiences": [" Utilizied various security tools and techniques."],
+      "imageSrc": "history/cod.png"
+    },
+    {
+      "role": "Cybersecurity Internship ",
+      "organisation": "National Technical Research Organisation (NTRO) ",
+      "startDate": " Jan,2024",
+      "endDate": "Feb,2024",
+      "experiences": [" Data protection strategies and incident response protocols."],
+      "imageSrc": "history/cod.png"
+    }
+]
